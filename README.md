@@ -121,6 +121,9 @@ gesture_model.keras
 * Image Visualization
 
 
+
+![Hand Gesture Prediction Output](output.png)
+
 ##  Future Enhancements
 
 * Real-time gesture recognition (webcam integration)
